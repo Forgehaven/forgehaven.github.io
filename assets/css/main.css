@@ -1201,7 +1201,6 @@ body.is-preload #bg:before {
   letter-spacing: 0.2rem;
   font-size: 0.8rem;
   border-bottom: 0;
-  user-select:all;
 }
 
 #header nav ul li a:hover {
